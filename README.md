@@ -1,7 +1,6 @@
-![MasterHead](https://github.com/Jeffmcklain/Jeffmcklain/blob/main/BANNER.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Jeff Molina</h1>
 <h3 align="center">DevOps Jr. in Training | Backend & Frontend | Cloud & Automation 🚀 Passionate about technology, cloud, and automation. 🌱 Currently learning: AWS ☁️, Python 🐍, and Rust 🦀.</h3>
-<image align="center" width="600" src="https://github.com/Jeffmcklain/Jeffmcklain/blob/main/Work%20Working%20Sticker%20by%20Pudgy%20Penguins.gif?raw=true">
+<image align="left" width="600" src="https://github.com/Jeffmcklain/Jeffmcklain/blob/main/Work%20Working%20Sticker%20by%20Pudgy%20Penguins.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffmcklain&label=Profile%20views&color=0e75b6&style=flat" alt="jeffmcklain" /> </p>
 
 - 🌱 I’m currently learning **AWS,RUST & PYTHON**
